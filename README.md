@@ -24,7 +24,7 @@ A ideia é de usar a Poke Api como fonte de dados para o projeto. Ela é uma API
 
 
 ## 🔗 Link Surge 
-Acesse a página do LabEddit [clicando aqui]()
+Acesse a página do Pokedex [clicando aqui]()
 
 
 ## 📷 Imagens
