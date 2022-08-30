@@ -4,14 +4,14 @@
 A ideia é de usar a Poke Api como fonte de dados para o projeto. Ela é uma API pública, bastante utilizada como fonte de dados para aplicações focadas em aprendizado de programação. É também uma API particularmente comum em Cases de Processos Seletivos.
 
 ### :small_blue_diamond: Os requisitos do projeto são:
-- **Home** 
-    Home: o usuário deve receber uma lista de pokemons vinda da API. Ele pode armazenar Pokemons em sua Pokedex clicando em cada um
+- **Home:** 
+    o usuário deve receber uma lista de pokemons vinda da API. Ele pode armazenar Pokemons em sua Pokedex clicando em cada um
 
-- **Pokedex**
-    Pokedex: o usuário deve pode ver os Pokemons que foram adicionados em sua Pokedex. 
+- **Pokedex:**
+    o usuário deve pode ver os Pokemons que foram adicionados em sua Pokedex. 
 
-- **Detalhe do Pokemon**
-  Detalhe do Pokemon: Deve ser possível ir para uma página de detalhes do Pokemon ao clicar no mesmo, estando tanto na Home quanto na Pokedex.
+- **Detalhe do Pokemon:**
+    Deve ser possível ir para uma página de detalhes do Pokemon ao clicar no mesmo, estando tanto na Home quanto na Pokedex.
 
 
 
